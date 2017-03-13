@@ -3,3 +3,5 @@ thanks i am fine, how r ya?
 man fuck off
 ok...
 bye!!!
+
+Modified file after changing the brach to "new_features"
