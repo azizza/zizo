@@ -1,3 +1,4 @@
 helo zizo-how r u
-
 ####this is new line from shorten_branch####
+
+this is the second changes in test.txt in shorten branch
